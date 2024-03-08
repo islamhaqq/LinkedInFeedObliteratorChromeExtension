@@ -2,6 +2,9 @@
 
 This Chrome extension automatically removes the "Main Feed" from LinkedIn, providing a distraction-free environment. It's designed for users who want to utilize LinkedIn for networking and job searching without getting sidetracked by the feed.
 
+![image](https://github.com/SyedAman/LinkedInFeedObliteratorChromeExtension/assets/11065634/94156d20-aea5-4e9a-b69f-9781e1925f6a)
+
+
 ## Installation
 
 Currently, this extension is not available on the Chrome Web Store. You can install it manually by following these steps:
