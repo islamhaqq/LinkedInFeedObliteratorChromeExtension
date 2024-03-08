@@ -4,11 +4,7 @@
     "version": "1.0",
     "description": "Removes the LinkedIn feed from the homepage.",
     "permissions": ["activeTab", "storage"],
-    "background": {
-      "service_worker": "background.js"
-    },
     "action": {
-      "default_popup": "popup.html",
       "default_icon": {
         "16": "icon16.png",
         "48": "icon48.png",
