@@ -9,7 +9,7 @@ This Chrome extension automatically removes the "Main Feed" from LinkedIn, provi
 
 Currently, this extension is not available on the Chrome Web Store. You can install it manually by following these steps:
 
-1. Download the latest version from [GitHub Releases](#) (replace with your actual link).
+1. Download the latest version from [GitHub Releases](https://github.com/SyedAman/LinkedInFeedObliteratorChromeExtension/releases).
 2. Unzip the downloaded file.
 3. Open Chrome and navigate to `chrome://extensions/`.
 4. Enable "Developer mode" at the top right corner.
